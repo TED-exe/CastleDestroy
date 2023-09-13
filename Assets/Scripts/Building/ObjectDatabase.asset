@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47bd4db12a2cbe14c9d61bca0afe51c4, type: 3}
+  m_Name: ObjectDatabase
+  m_EditorClassIdentifier: 
+  objectsData:
+  - <Name>k__BackingField: Coin
+    <ID>k__BackingField: 0
+    <size>k__BackingField: {x: 1, y: 1}
+    <prefab>k__BackingField: {fileID: 5825534539036933306, guid: 5adf9445a8c5d044597e073fd9287d85,
+      type: 3}
+  - <Name>k__BackingField: Character
+    <ID>k__BackingField: 1
+    <size>k__BackingField: {x: 1, y: 1}
+    <prefab>k__BackingField: {fileID: 1207005994881073700, guid: 23ebdc99936b81644827ebb3cfea8e8b,
+      type: 3}
+  - <Name>k__BackingField: Wall
+    <ID>k__BackingField: 2
+    <size>k__BackingField: {x: 1, y: 1}
+    <prefab>k__BackingField: {fileID: 763307822483524389, guid: 40c49442debbb4941abe36089d228cf4,
+      type: 3}
